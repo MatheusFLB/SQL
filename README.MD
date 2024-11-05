@@ -1,0 +1,1 @@
+Através do uso do MySQL Workbench, inserindo na sequência os códigos dentro da pasta "code", conseguimos criar a estrutura do banco de dados, inserir dados nas tabelas e criar uma visão para consultar dados específicos.
